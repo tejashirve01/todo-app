@@ -1,8 +1,5 @@
 # todo-app
 This is a todo app built on MERN
-
-# Todo App
-
 A simple full-stack Todo application built with Node.js (Express & MongoDB) for the backend and React (Vite) for the frontend.
 
 ## About Our Project
